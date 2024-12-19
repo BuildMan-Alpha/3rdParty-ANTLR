@@ -1,0 +1,5 @@
+C:\dev\3rdParty\ANTLR\2.7.6\lib\csharp\antlr.runtime\bin\antlr.runtime.dll
+C:\dev\3rdParty\ANTLR\2.7.6\lib\csharp\antlr.runtime\bin\antlr.runtime.pdb
+C:\dev\3rdParty\ANTLR\2.7.6\lib\csharp\antlr.runtime\obj\Debug\ResolveAssemblyReference.cache
+C:\dev\3rdParty\ANTLR\2.7.6\lib\csharp\antlr.runtime\obj\Debug\antlr.runtime.dll
+C:\dev\3rdParty\ANTLR\2.7.6\lib\csharp\antlr.runtime\obj\Debug\antlr.runtime.pdb

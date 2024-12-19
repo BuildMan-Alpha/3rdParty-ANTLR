@@ -1,0 +1,1 @@
+C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\A5Antlr\ReleaseVS170\A5Antlr.lib

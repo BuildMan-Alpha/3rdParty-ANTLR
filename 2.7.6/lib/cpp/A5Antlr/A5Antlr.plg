@@ -1,0 +1,225 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: A5Antlr - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Kurt\LOCALS~1\Temp\RSPA03.tmp" with contents
+[
+/nologo /Zp1 /MD /W3 /GX /O2 /I ".." /D "NDEBUG" /D "WIN32" /D "_MBCS" /D "_USRDLL" /D "ANTLR_SUPPORT_XML" /Fp"Release/A5Antlr.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\ANTLRUtil.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\ASTFactory.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\ASTNULLType.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\ASTRefCount.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\BaseAST.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\BitSet.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CharBuffer.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CharScanner.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CommonAST.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CommonASTWithHiddenTokens.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CommonHiddenStreamToken.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CommonToken.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\InputBuffer.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\LLkParser.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\MismatchedCharException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\MismatchedTokenException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\NoViableAltException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\NoViableAltForCharException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\Parser.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\RecognitionException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\String.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\Token.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenBuffer.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenRefCount.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenStreamBasicFilter.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenStreamHiddenTokenFilter.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenStreamRewriteEngine.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenStreamSelector.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TreeParser.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Kurt\LOCALS~1\Temp\RSPA03.tmp" 
+Creating temporary file "C:\DOCUME~1\Kurt\LOCALS~1\Temp\RSPA04.tmp" with contents
+[
+/nologo /out:"Release\A5Antlr.lib" 
+.\Release\ANTLRUtil.obj
+.\Release\ASTFactory.obj
+.\Release\ASTNULLType.obj
+.\Release\ASTRefCount.obj
+.\Release\BaseAST.obj
+.\Release\BitSet.obj
+.\Release\CharBuffer.obj
+.\Release\CharScanner.obj
+.\Release\CommonAST.obj
+.\Release\CommonASTWithHiddenTokens.obj
+.\Release\CommonHiddenStreamToken.obj
+.\Release\CommonToken.obj
+.\Release\InputBuffer.obj
+.\Release\LLkParser.obj
+.\Release\MismatchedCharException.obj
+.\Release\MismatchedTokenException.obj
+.\Release\NoViableAltException.obj
+.\Release\NoViableAltForCharException.obj
+.\Release\Parser.obj
+.\Release\RecognitionException.obj
+.\Release\String.obj
+.\Release\Token.obj
+.\Release\TokenBuffer.obj
+.\Release\TokenRefCount.obj
+.\Release\TokenStreamBasicFilter.obj
+.\Release\TokenStreamHiddenTokenFilter.obj
+.\Release\TokenStreamRewriteEngine.obj
+.\Release\TokenStreamSelector.obj
+.\Release\TreeParser.obj
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\Kurt\LOCALS~1\Temp\RSPA04.tmp"
+<h3>Output Window</h3>
+Compiling...
+ANTLRUtil.cpp
+ASTFactory.cpp
+ASTNULLType.cpp
+ASTRefCount.cpp
+BaseAST.cpp
+BitSet.cpp
+CharBuffer.cpp
+CharScanner.cpp
+CommonAST.cpp
+CommonASTWithHiddenTokens.cpp
+CommonHiddenStreamToken.cpp
+CommonToken.cpp
+InputBuffer.cpp
+LLkParser.cpp
+MismatchedCharException.cpp
+MismatchedTokenException.cpp
+NoViableAltException.cpp
+NoViableAltForCharException.cpp
+Parser.cpp
+RecognitionException.cpp
+String.cpp
+Token.cpp
+TokenBuffer.cpp
+TokenRefCount.cpp
+TokenStreamBasicFilter.cpp
+TokenStreamHiddenTokenFilter.cpp
+TokenStreamRewriteEngine.cpp
+TokenStreamSelector.cpp
+TreeParser.cpp
+Creating library...
+
+
+
+<h3>Results</h3>
+A5Antlr.lib - 0 error(s), 0 warning(s)
+<h3>
+--------------------Configuration: A5Antlr - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\Kurt\LOCALS~1\Temp\RSPA05.tmp" with contents
+[
+/nologo /Zp1 /MDd /W3 /Gm /GX /ZI /Od /I ".." /D "_DEBUG" /D "WIN32" /D "_MBCS" /D "_USRDLL" /D "ANTLR_SUPPORT_XML" /Fp"Debug/A5Antlr.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\ANTLRUtil.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\ASTFactory.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\ASTNULLType.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\ASTRefCount.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\BaseAST.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\BitSet.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CharBuffer.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CharScanner.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CommonAST.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CommonASTWithHiddenTokens.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CommonHiddenStreamToken.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\CommonToken.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\InputBuffer.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\LLkParser.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\MismatchedCharException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\MismatchedTokenException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\NoViableAltException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\NoViableAltForCharException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\Parser.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\RecognitionException.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\String.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\Token.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenBuffer.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenRefCount.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenStreamBasicFilter.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenStreamHiddenTokenFilter.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenStreamRewriteEngine.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TokenStreamSelector.cpp"
+"C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\src\TreeParser.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\Kurt\LOCALS~1\Temp\RSPA05.tmp" 
+Creating temporary file "C:\DOCUME~1\Kurt\LOCALS~1\Temp\RSPA06.tmp" with contents
+[
+/nologo /out:"Debug\A5Antlr.lib" 
+.\Debug\ANTLRUtil.obj
+.\Debug\ASTFactory.obj
+.\Debug\ASTNULLType.obj
+.\Debug\ASTRefCount.obj
+.\Debug\BaseAST.obj
+.\Debug\BitSet.obj
+.\Debug\CharBuffer.obj
+.\Debug\CharScanner.obj
+.\Debug\CommonAST.obj
+.\Debug\CommonASTWithHiddenTokens.obj
+.\Debug\CommonHiddenStreamToken.obj
+.\Debug\CommonToken.obj
+.\Debug\InputBuffer.obj
+.\Debug\LLkParser.obj
+.\Debug\MismatchedCharException.obj
+.\Debug\MismatchedTokenException.obj
+.\Debug\NoViableAltException.obj
+.\Debug\NoViableAltForCharException.obj
+.\Debug\Parser.obj
+.\Debug\RecognitionException.obj
+.\Debug\String.obj
+.\Debug\Token.obj
+.\Debug\TokenBuffer.obj
+.\Debug\TokenRefCount.obj
+.\Debug\TokenStreamBasicFilter.obj
+.\Debug\TokenStreamHiddenTokenFilter.obj
+.\Debug\TokenStreamRewriteEngine.obj
+.\Debug\TokenStreamSelector.obj
+.\Debug\TreeParser.obj
+]
+Creating command line "link.exe -lib @C:\DOCUME~1\Kurt\LOCALS~1\Temp\RSPA06.tmp"
+<h3>Output Window</h3>
+Compiling...
+ANTLRUtil.cpp
+ASTFactory.cpp
+ASTNULLType.cpp
+ASTRefCount.cpp
+BaseAST.cpp
+BitSet.cpp
+CharBuffer.cpp
+CharScanner.cpp
+CommonAST.cpp
+CommonASTWithHiddenTokens.cpp
+CommonHiddenStreamToken.cpp
+CommonToken.cpp
+InputBuffer.cpp
+LLkParser.cpp
+MismatchedCharException.cpp
+MismatchedTokenException.cpp
+NoViableAltException.cpp
+NoViableAltForCharException.cpp
+Parser.cpp
+RecognitionException.cpp
+String.cpp
+Token.cpp
+TokenBuffer.cpp
+TokenRefCount.cpp
+TokenStreamBasicFilter.cpp
+TokenStreamHiddenTokenFilter.cpp
+TokenStreamRewriteEngine.cpp
+TokenStreamSelector.cpp
+TreeParser.cpp
+Creating library...
+
+
+
+<h3>Results</h3>
+A5Antlr.lib - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

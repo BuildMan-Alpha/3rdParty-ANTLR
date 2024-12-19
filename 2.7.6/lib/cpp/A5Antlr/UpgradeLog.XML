@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="A5AntlrVS10">
+</Property><Property Name="Solution File" Value="C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\A5Antlr\A5AntlrVS10.sln">
+</Property><Property Name="Date" Value="Thursday, September 24, 2009">
+</Property><Property Name="Time" Value="15:19 PM">
+</Property></Properties><Event ErrorLevel="0" Project="A5Antlr" Source="A5Antlr.vcproj" Description="Converting project file 'C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\A5Antlr\A5Antlr.vcproj'.">
+</Event><Event ErrorLevel="0" Project="A5Antlr" Source="H:\Program Files\Microsoft Visual Studio 10.0\VC\VCProjectDefaults\UpgradeFromVC60.props" Description="Settings file 'H:\Program Files\Microsoft Visual Studio 10.0\VC\VCProjectDefaults\UpgradeFromVC60.props' already exists and will not attempt to overwrite it.">
+</Event><Event ErrorLevel="1" Project="A5Antlr" Source="A5Antlr.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="A5Antlr" Source="A5Antlr.vcproj" Description="Done converting to new project file 'C:\dev\3rdParty\ANTLR\2.7.6\lib\cpp\A5Antlr\A5Antlr.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="A5Antlr" Source="A5Antlr.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="A5AntlrVS10.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="A5AntlrVS10.sln" Description="Converted">
+</Event></UpgradeLog>

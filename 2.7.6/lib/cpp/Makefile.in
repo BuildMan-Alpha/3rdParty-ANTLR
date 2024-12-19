@@ -1,0 +1,19 @@
+###############################################################################
+# $Id: Makefile.in,v 1.1 2006/01/27 23:06:34 kurt Exp $
+###############################################################################
+## do not change this value 
+subdir=lib/cpp
+
+## get configured autoconf variables
+@stdvars@
+
+## Your own variables shall go here ..
+
+# Docs
+DOXY_TARGET=doxygen.cfg
+DOXY_GENDIR=gendoc/html
+
+@stdmake@
+
+
+@stddeps@

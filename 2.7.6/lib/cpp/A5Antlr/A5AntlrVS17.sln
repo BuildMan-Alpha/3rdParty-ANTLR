@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2022
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 12.0.31101.0
+Project("{BA3D8AC9-AC31-40FE-BFA0-ED77858AD775}") = "A5AntlrVS17", "A5AntlrVS17.vcxproj", "{F40E298F-5C69-4762-B7CB-EBE8E1B3A396}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F40E298F-5C69-4762-B7CB-EBE8E1B3A396}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F40E298F-5C69-4762-B7CB-EBE8E1B3A396}.Debug|Win32.Build.0 = Debug|Win32
+		{F40E298F-5C69-4762-B7CB-EBE8E1B3A396}.Release|Win32.ActiveCfg = Release|Win32
+		{F40E298F-5C69-4762-B7CB-EBE8E1B3A396}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+
